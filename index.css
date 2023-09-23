@@ -1,0 +1,28 @@
+.about{
+    margin-top: 50%;
+    text-align: center;
+}
+.about h1{
+    margin-top: 30px;
+}
+.list ul{
+    /* background-color: ; */
+    list-style: none;
+}
+.list a{
+    text-decoration: none;
+    color: white;
+    
+}
+.footer{
+    background-color: grey;
+}
+.back{
+    text-align: center;
+    /* text-decoration: none;
+    color: white; */
+}
+.back a{
+text-decoration: none;
+color: white;
+}
